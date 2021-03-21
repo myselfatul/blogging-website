@@ -15,3 +15,13 @@ To start
 
 npm start
 You will have your project running on server 3000.
+
+
+
+# Screenshots:
+
+![Screenshot (140)](https://user-images.githubusercontent.com/66555519/111912854-80291880-8a91-11eb-89ef-72750c0bb539.png)
+
+![Screenshot (138)](https://user-images.githubusercontent.com/66555519/111912842-799aa100-8a91-11eb-8e22-2aab90406b55.png)
+
+![Screenshot (139)](https://user-images.githubusercontent.com/66555519/111912849-7bfcfb00-8a91-11eb-9093-5a80ec5fa9fd.png)
