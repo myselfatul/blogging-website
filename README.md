@@ -1,5 +1,5 @@
 # blogging-website
-This application has been built in MERN stack(MongoDB, ExpressJS, ReactJS and NodeJS).The front end for this application is in ReactJS.
+This application has been built in MongoDB, ExpressJS and NodeJS.
 
 # Overview
 This is basically the backend for the blogging-website which will have login/signup feature, will have some posts listed. Once you have choosen a post, you will have its detail. After that you can read posts.
